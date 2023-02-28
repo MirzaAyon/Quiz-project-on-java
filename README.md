@@ -16,10 +16,10 @@ System>Input options. Option
 - a: User> Unit Testing Option 
 - b:User> Integration Testing Option 
 - c:User> Sanity Testing Option 
-- d:User> Regression Testing System> Please input the correct ans User> a System: Quiz saved at the database. Do you want to add more? (y/n)
+- d:User> Regression Testing System> <br> Please input the correct ans User> a <br> System: Quiz saved at the database. Do you want to add more? (y/n) <br>
 if user press y, then the previous scenario will happen again otherwise the program will be closed.
 
-If user select option 2, then,
+If user select option 2, then,<br>
 System> You will be asked 5 questions, each questions has 1 marks
 
 #### Which testing is done by developer? 
