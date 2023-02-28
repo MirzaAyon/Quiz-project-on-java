@@ -1,6 +1,6 @@
 ## Quiz-project-on-java
 
-### Project scenario
+
 ### Project scenario
 #### Create a quiz program that will take questions, option and answer from admin user and save it to the question bank. Then if any user want to give the quiz, random 5 questions will be shown to the user from the question bank.
 
@@ -37,20 +37,20 @@ Result: You got [correct_marks] out of 5
 #### JSON Format:
 [
 {
-"Question":"Which testing is done by developer?",
-"option a":"Unit Testing",
-"Option b":"Integration Testing",
-"Sanity Testing":"Sanity Testing",
-"Option d":"Regression Testing",
-"answer":"a"
+"Question":"Which testing is done by developer?", <br>
+"option a":"Unit Testing", <br>
+"Option b":"Integration Testing", <br>
+"Sanity Testing":"Sanity Testing", <br>
+"Option d":"Regression Testing",<br>
+"answer":"a"<br>
 },
 {
-"Question":"Which is functional testing?",
-"option a":"Load Testing",
-"Option b":"Security Testing",
-"Sanity Testing":"Gorilla Testing",
-"Option d":"Benchmark Testing",
-"answer":"c"
+"Question":"Which is functional testing?", <br>
+"option a":"Load Testing",<br>
+"Option b":"Security Testing", <br>
+"Sanity Testing":"Gorilla Testing", <br>
+"Option d":"Benchmark Testing", <br>
+"answer":"c" <br>
 }
 ]
 
