@@ -35,23 +35,23 @@ System: Not correct
 Result: You got [correct_marks] out of 5
 
 #### JSON Format:
-[
-{
+[ <br>
+{ <br>
 "Question":"Which testing is done by developer?", <br>
 "option a":"Unit Testing", <br>
 "Option b":"Integration Testing", <br>
 "Sanity Testing":"Sanity Testing", <br>
 "Option d":"Regression Testing",<br>
 "answer":"a"<br>
-},
-{
+},<br>
+{<br>
 "Question":"Which is functional testing?", <br>
 "option a":"Load Testing",<br>
 "Option b":"Security Testing", <br>
 "Sanity Testing":"Gorilla Testing", <br>
 "Option d":"Benchmark Testing", <br>
 "answer":"c" <br>
-}
+}<br>
 ]
 
 ### Project video
